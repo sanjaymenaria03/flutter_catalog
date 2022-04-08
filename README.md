@@ -1,4 +1,4 @@
-# comeback
+# CATALOG APP
 
 A new Flutter project.
 
